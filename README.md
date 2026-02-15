@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋
+This is my first Git Repository.
+<br>
+Author - Arpit
 
 <!--
 **Arpit-mca/Arpit-mca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
